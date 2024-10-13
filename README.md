@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Project Status
+
+Я вроде доделал программу, но не уверен, что правильно, тк не был на паре и не знаю точных указаний
